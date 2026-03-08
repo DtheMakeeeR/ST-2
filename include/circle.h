@@ -6,6 +6,7 @@
 double const PI = 3.14159;
 
 class Circle {
+private:
   double radius;
   double ference;
   double area;

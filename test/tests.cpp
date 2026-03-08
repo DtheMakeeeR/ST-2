@@ -1,4 +1,5 @@
 // Copyright 2025 UNN-CS Team
+#include <math.h>
 
 #include <cmath>
 
