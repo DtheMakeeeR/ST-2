@@ -5,7 +5,7 @@
 
 #include <gtest/gtest.h>
 
-#include "Circle.h"
+#include "circle.h"
 #include "tasks.h"
 
 static const double EPS = 1e-9;
