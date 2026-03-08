@@ -10,7 +10,7 @@ class Circle {
   double ference;
   double area;
 
-public:
+ public:
   explicit Circle(double r = 1.0);
   double getRadius() const { return radius; }
   double getFerence() const { return ference; }
