@@ -1,9 +1,11 @@
 // Copyright 2025 UNN-CS Team
 
+#include <cmath>
+
+#include <gtest/gtest.h>
+
 #include "Circle.h"
 #include "tasks.h"
-#include <cmath>
-#include <gtest/gtest.h>
 
 static const double EPS = 1e-9;
 
